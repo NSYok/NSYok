@@ -39,13 +39,6 @@ I am a **Hands-on Engineer** dedicated to bridging the gap between **Physical Ha
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
   <i>"Optimizing the world, one line of code at a time."</i>
